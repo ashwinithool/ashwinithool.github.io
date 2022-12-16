@@ -1,0 +1,269 @@
+{
+  "seller": [
+    {
+      "name": "Ashwini Thool",
+      "email": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "Sneha Thool",
+      "email": "sneha@gmail.com",
+      "password": "as123",
+      "id": 1
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Roshni",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Roshni",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Kavish",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Kavish",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Kavish",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "ashu",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "ash",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Roshni",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Ashu",
+      "password": "abc123",
+      "email": "abc123",
+      "id": 18
+    },
+    {
+      "name": "Ashwini",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Ashwini",
+      "password": "abc123",
+      "email": "ashwinithool123@gmail.com",
+      "id": 20
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung M40",
+      "price": "100000",
+      "category": "mob",
+      "color": "Black",
+      "description": "samsung product",
+      "image": "./assets/samsung.jpg",
+      "id": 1
+    },
+    {
+      "name": "Bag",
+      "price": "1000",
+      "category": "Listening",
+      "color": "Pink",
+      "description": "good",
+      "image": "./assets/bag.jpg",
+      "id": 2
+    },
+    {
+      "name": "Redmi",
+      "price": "20000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "mobile ",
+      "image": "./assets/redmi.jpg",
+      "id": 3
+    },
+    {
+      "name": "Iphone",
+      "price": "49900",
+      "category": "Mobile",
+      "color": "Black",
+      "description": "Good ",
+      "image": "./assets/app.jpg",
+      "id": 4
+    },
+    {
+      "name": "Watch",
+      "price": "5000",
+      "category": "watch",
+      "color": "Black",
+      "description": "Good Product",
+      "image": "./assets/watch.jpg",
+      "id": 5
+    },
+    {
+      "name": "Shoes",
+      "price": "1000",
+      "category": "Footwear",
+      "color": "blue",
+      "description": "good",
+      "image": "./assets/shoes.jpg",
+      "id": 6
+    },
+    {
+      "name": "Headphone",
+      "price": "1000",
+      "category": "Carry Item",
+      "color": "blue",
+      "description": "good",
+      "image": "./assets/headphone.jpg",
+      "id": 7
+    },
+    {
+      "name": "Dell Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "White",
+      "description": "Dell",
+      "image": "./assets/dell.jpg",
+      "id": 8
+    },
+    {
+      "name": "Printer",
+      "price": "50000",
+      "category": "printer",
+      "color": "White",
+      "description": "Laser Printer",
+      "image": "./assets/printer.jpg",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "sanju",
+      "email": "sanj123@gmail.com",
+      "password": "sanj123",
+      "id": 1
+    },
+    {
+      "name": "Shanaya",
+      "email": "shanu@gmail.com",
+      "password": "sanj123",
+      "id": 2
+    },
+    {
+      "name": "Ashwini",
+      "email": "ashwinithool123@gmail.com",
+      "password": "sanj123",
+      "id": 3
+    },
+    {
+      "name": "Roshni",
+      "email": "roshni@123.com",
+      "password": "sanj123",
+      "id": 4
+    },
+    {
+      "name": "Kavish",
+      "email": "sfgffgf@gmail.com",
+      "password": "sanj123",
+      "id": 5
+    },
+    {
+      "name": "Ashwini",
+      "email": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "id": 6
+    },
+    {
+      "name": "Ashwini",
+      "email": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "id": 7
+    },
+    {
+      "name": "Ashwini",
+      "email": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "id": 8
+    },
+    {
+      "name": "Ashwini",
+      "email": "ashwinithool123@gmail.com",
+      "password": "abc123",
+      "id": 9
+    }
+  ]
+}
